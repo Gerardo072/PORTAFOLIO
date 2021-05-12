@@ -75,6 +75,46 @@
     text-align: center;
     background-color: greenyellow;
 }
+header{
+    width: 100%;
+    height: 60px;
+    padding: 0px 50px 0px 45px;
+    box-sizing: border-box;
+    
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    
+    background-color: #0093E9;
+    background-image: -webkit-linear-gradient(25deg, #0093E9 0%, #80D0C7 100%);
+    background-image: -o-linear-gradient(25deg, #0093E9 0%, #80D0C7 100%);
+    background-image: linear-gradient(115deg, #0093E9 0%, #80D0C7 100%);
+}
+:root{
+    --color1: red;
+    --color2: white;
+    --color3: black;
+    
+    --colorTexto: black;
+}
+.logo{
+    color: var(--color2);
+    margin: 0px 0px 0px 50px
+}
+.nav{
+    list-style: none;
+    color: var(--color2);
+    width: 100px;
+    padding-top: 10px;
+    margin: 10px;
 
-
-
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.nav li{
+    background-color: linear-gradient(115deg, #0093E9 0%, #80D0C7 100%);
+    margin: 20px 50px 0px 0px;
+}

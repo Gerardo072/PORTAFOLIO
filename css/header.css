@@ -13,11 +13,12 @@
     margin: auto;
 }
 .Titulo{
-    color: red;
+    color: white;
     font-size: 50px;
     font-family: fantasy;
     text-align: center;
     background-color: yellow;
+    background-image: linear-gradient(115deg, #0093E9 0%, #80D0C7 100%);
 }
 .parrafo{
     text-align: justify;

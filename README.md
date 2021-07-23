@@ -17,13 +17,13 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfT8i8JODeJWtD0SAQVlJ
 | Nombre del profesor: | Jossue Emmanuel Fuentes|
 | Proyecto: | https://github.com/Gerardo072/PORTAFOLIO |
 
-Indice
+                                Indice
 
 Portada....................................................................1
 
-Anteportada..........................................................2
+Anteportada................................................................2
 
-Indice....................................................................3
+Indice.....................................................................3
 
 | Objetivos|
 | ------------ |

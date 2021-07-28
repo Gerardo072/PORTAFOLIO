@@ -31,28 +31,9 @@ Objetivos:
 
 Home page:
 
-➕ 1 Banner de Introducción al glosario
+➕ es una página designada para ser el principal punto de entrada a un sitio web, apareciendo cuando un usuario comienza una sesión. Las páginas de inicio suelen ofrecer una bienvenida al internauta, un texto donde se explica el significado del sitio web y un menú con links a otras páginas.
 
 Glosario:
 
-📜 1 Las etiquetas que debe contener la cabeza de una pagina web.
-
-📜 2 Las etiquetas que son necesarias para conformar una lista ordenada o no ordenada.
-
-📜 3 Las etiquetas que son fundamentales para realizar una tabla.
-
-📜 4 Etiquetas para hacer un formulario.
-
-📜 5 Las variadas etiquetas para poder llegar realizar un maquetación debido a los alineamientos de objetos.
-
-📜 6 Etiquetas que pueden alterar un texto común.
-
-📜 7 Y la etiqueta que funciona para hacer una conexión con el css.
-
-📜 8 Contando con la utilidad de etiquetas bastante útiles.
-
-📜 9 Junto con las propiedades css más utilizadas.
-
-📜 10 Las Etiquetas ayudan a encontar los sitios web.
-
+📜 Es donde está creada una página con tu nombre y ejemplos de HTML de Computación.
 

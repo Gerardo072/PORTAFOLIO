@@ -31,7 +31,7 @@ Objetivos:
 
 Home page:
 
-➕ es una página designada para ser el principal punto de entrada a un sitio web, apareciendo cuando un usuario comienza una sesión. Las páginas de inicio suelen ofrecer una bienvenida al internauta, un texto donde se explica el significado del sitio web y un menú con links a otras páginas.
+➕ Es una página designada para ser el principal punto de entrada a un sitio web, apareciendo cuando un usuario comienza una sesión. Las páginas de inicio suelen ofrecer una bienvenida al internauta, un texto donde se explica el significado del sitio web y un menú con links a otras páginas.
 
 Glosario:
 

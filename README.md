@@ -2,6 +2,7 @@
 https://gerardo072.github.io/PORTAFOLIO/
 
 
+
 <img width=100px; src="https://jefuentes80.github.io/starup_scl/img/logo_SCL%20(3).png">
 
                                          Portafolio lll periodo 2021
@@ -10,11 +11,12 @@ https://gerardo072.github.io/PORTAFOLIO/
 
 |  Nombre | Oscar Gerardo de Jesús Ordoñez Álvarez |
 | ------------ | ------------ |
+| Colegio: |Santa Catalina Laboure|
 | Grado: | 4to bachillerato en ciencias y letras con orientacion en computacion  |
-| Materia: | Laboratorio |
+| Materia: | Laboratorio 1 |
 | Nombre del profesor: | Jossue Emmanuel Fuentes|
 
-Índice:
+                                          Índice:
 
 Portada
 Anteportada
@@ -22,7 +24,7 @@ Anteportada
 Objetivos
 Documento
 
-    🔗Glosario HTML CSS
+	🔗Glosario HTML CSS
     🔗Home page
     🔗Banner de introducción
 
@@ -33,12 +35,11 @@ c. Glosario
 
 Objetivos Futuros
 
-Objetivos:
+                                 Objetivos:
 | ------------ |
 📱 Ganar la clase y cumplir mis metas.
 📱 Entregar el portafolio al 100% para que tenga una buena calificación.
 📱 Demostrar que puedo programar bien un HTML.
-
 
 📝 Documentación:
 
@@ -46,8 +47,7 @@ Nombre de Trabajo:
 Link: https://gerardo072.github.io/PORTAFOLIO/
 
 
-
-Glosario de Etiquetas
+                          Glosario de Etiquetas	
 
 Este Contiene:
 
@@ -64,7 +64,6 @@ Este Contiene:
 🔗Propiedades dirigidas para Tablas
 
 🔗Entre muchas otras etiquetas HTML y propiedades CSS.
-
 
 
 Objetivos Futuro:

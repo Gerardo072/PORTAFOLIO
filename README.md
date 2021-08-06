@@ -22,7 +22,7 @@ Anteportada
 Objetivos
 Documento
 
-	🔗Glosario HTML CSS
+    🔗Glosario HTML CSS
     🔗Home page
     🔗Banner de introducción
 
@@ -39,21 +39,32 @@ Objetivos:
 📱 Entregar el portafolio al 100% para que tenga una buena calificación.
 📱 Demostrar que puedo programar bien un HTML.
 
+
 📝 Documentación:
 Nombre de Trabajo:	Link:
 Glosario de Etiquetas	https://gerardo072.github.io/PORTAFOLIO/
-*Este Contiene:
+Este Contiene:
 🔗Etiquetas dirigidas al texto
+
 🔗Etiquetas dirigidas a objetos
+
 🔗Etiquetas para definir el documento
+
 🔗Propiedades css dirigidas a texto
+
 🔗Propiedades dirigidas a objetos
+
 🔗Propiedades dirigidas para Tablas
+
 🔗Entre muchas otras etiquetas HTML y propiedades CSS.
 
+
 Objetivos Futuro:
+
 🌐Lograr a alcanzar mis sueños y demostrar que puedo hacer buenos trabajos.
+
 🌐Ser un buen programador para todo el país.
+
 🌐Graduarme y tener mi diploma en el colegio e ir a la universidad.
 
 

@@ -19,9 +19,13 @@ https://gerardo072.github.io/PORTAFOLIO/
                                           Índice:
 
 Portada
+
 Anteportada
+
 Índice
+
 Objetivos
+
 Documento
 
 	🔗Glosario HTML CSS

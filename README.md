@@ -66,7 +66,7 @@ Este Contiene:
 🔗Entre muchas otras etiquetas HTML y propiedades CSS.
 
 
-Objetivos Futuro:
+                                 Objetivos Futuro:
 
 🌐Lograr a alcanzar mis sueños y demostrar que puedo hacer buenos trabajos.
 

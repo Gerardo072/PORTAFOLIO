@@ -41,8 +41,11 @@ Objetivos:
 
 
 📝 Documentación:
+
 Nombre de Trabajo:	Link:
+
 Glosario de Etiquetas	https://gerardo072.github.io/PORTAFOLIO/
+
 Este Contiene:
 🔗Etiquetas dirigidas al texto
 

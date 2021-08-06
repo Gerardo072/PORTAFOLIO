@@ -41,6 +41,7 @@ Objetivos Futuros
 
                                  Objetivos:
 | ------------ |
+
 📱 Ganar la clase y cumplir mis metas.
 
 📱 Entregar el portafolio al 100% para que tenga una buena calificación.

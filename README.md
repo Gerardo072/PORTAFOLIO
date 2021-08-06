@@ -45,6 +45,8 @@ Objetivos:
 Nombre de Trabajo:	
 Link: https://gerardo072.github.io/PORTAFOLIO/
 
+
+
 Glosario de Etiquetas
 
 Este Contiene:
@@ -62,6 +64,7 @@ Este Contiene:
 🔗Propiedades dirigidas para Tablas
 
 🔗Entre muchas otras etiquetas HTML y propiedades CSS.
+
 
 
 Objetivos Futuro:

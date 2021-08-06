@@ -2,7 +2,6 @@
 https://gerardo072.github.io/PORTAFOLIO/
 
 
-
 <img width=100px; src="https://jefuentes80.github.io/starup_scl/img/logo_SCL%20(3).png">
 
                                          Portafolio lll periodo 2021
@@ -14,16 +13,25 @@ https://gerardo072.github.io/PORTAFOLIO/
 | Grado: | 4to bachillerato en ciencias y letras con orientacion en computacion  |
 | Materia: | Laboratorio |
 | Nombre del profesor: | Jossue Emmanuel Fuentes|
-| Proyecto: | https://github.com/Gerardo072/PORTAFOLIO |
 
 Índice:
 
-Portada....................................................................1
-Anteportada................................................................2
-Índice.....................................................................3
-Objetivos..................................................................4
-Home Page..................................................................5
-Glosario...................................................................6
+Portada
+Anteportada
+Índice
+Objetivos
+Documento
+
+	🔗Glosario HTML CSS
+    🔗Home page
+    🔗Banner de introducción
+
+c. Glosario
+
+    🔗Contendio HTML
+    🔗Contenido CSS
+
+Objetivos Futuros
 
 Objetivos:
 | ------------ |
@@ -31,11 +39,21 @@ Objetivos:
 📱 Entregar el portafolio al 100% para que tenga una buena calificación.
 📱 Demostrar que puedo programar bien un HTML.
 
-Home page:
+📝 Documentación:
+Nombre de Trabajo:	Link:
+Glosario de Etiquetas	https://gerardo072.github.io/PORTAFOLIO/
+*Este Contiene:
+🔗Etiquetas dirigidas al texto
+🔗Etiquetas dirigidas a objetos
+🔗Etiquetas para definir el documento
+🔗Propiedades css dirigidas a texto
+🔗Propiedades dirigidas a objetos
+🔗Propiedades dirigidas para Tablas
+🔗Entre muchas otras etiquetas HTML y propiedades CSS.
 
-➕ Es una página designada para ser el principal punto de entrada a un sitio web, apareciendo cuando un usuario comienza una sesión. Las páginas de inicio suelen ofrecer una bienvenida al internauta, un texto donde se explica el significado del sitio web y un menú con links a otras páginas.
+Objetivos Futuro:
+🌐Lograr a alcanzar mis sueños y demostrar que puedo hacer buenos trabajos.
+🌐Ser un buen programador para todo el país.
+🌐Graduarme y tener mi diploma en el colegio e ir a la universidad.
 
-Glosario:
-
-📜 Es donde está creada una página con tu nombre y ejemplos de HTML de Computación.
 
